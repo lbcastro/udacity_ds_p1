@@ -7,11 +7,11 @@ Udacity Data Scientist Project 1
 
 
 
-#### Goal
+#### Goal and acknowledgements
 
 The goal with this project is to look into job satisfaction over time and evaluate the impact that income and lifestyle choices have on this metric. To do this analysis, several editions of Stack Overflow's yearly developer survey were used, ranging from 2011 to 2020.
 
-#### Project structure
+#### Project structure (files description)
 
 All the project's logic is contained and explained in main.ipynb, while the datasets are contained in the data/ folder. These datasets are compressed to comply with Github's filesize limits.
 
